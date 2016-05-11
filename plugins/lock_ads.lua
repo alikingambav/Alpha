@@ -1,3 +1,4 @@
+-- A little change by @MrTorento
 
 local function run(msg, matches)
 if msg.to.type == 'chat' then
@@ -20,8 +21,8 @@ end
  end
 return {
     usage ={
-        "lock adds: If User Send A Link Then Removed From Bot.",
-        "unlock adds: Adds Is Enabled.",
+        "lock ads",
+        "unlock ads",
         },
   patterns = {
     "[Tt][Ee][Ll][Ee][Gg][Rr][Aa][Mm].[Mm][Ee]/[Jj][Oo][Ii][Nn][Cc][Hh][Aa][Tt]/",
