@@ -239,7 +239,7 @@ return {
 --  ||           ||            \\         //               //
 --  ||           ||-_-_-_-_     \\-_-_-_-//    -_-_-_-_-_-//
 --
---By @ali_ghoghnoos
+--By @alfroshotak
 --@telemanager_ch
 
 --Tnx To Imandaneshi for this Plugin ;)
