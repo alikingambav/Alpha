@@ -5,8 +5,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/telemanagerplus/TeleManagerPlus.git
-cd TeleManagerPlus
+git clone https://github.com/amirf2020/Alpha
+cd Alpha
 chmod +x launchfix2.sh
 chmod +x launch.sh
 chmod +x autolaunch.sh
@@ -17,7 +17,7 @@ cd bin
 ./luarocks-5.2 install lub
 ./luarocks-5.2 install luaexpat
 cd $HOME
-cd TeleManagerPlus
+cd Alpha
 ./launchfix2.sh install
 ./autolaunch.sh # Enter a phone number & confirmation code.
 ```
