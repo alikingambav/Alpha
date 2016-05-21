@@ -8,18 +8,18 @@ local function run(msg, matches)
 TeleManagerPlus (Open Source) V 3.0.0
     Advanced ManagerBot Based On TeleSeed
     
-    Edited By : @ali_ghoghnoos
+    Edited By : @alfroshotak
     
     Our Telegram Channel ID :
-    @Telemanager_ch
+    @ub_ch
   
     Speacial Thanks To My friends :
-    @ThisIsArman
-    @minaco
-    @dragon_born
+    @valtman
+    @seyedkia
+    @heisehsan
     and other that help me for this Bot
      GitHub :
-     Https://github.com/telemanagerplus/TeleManagerPlus
+     Https://github.com/amirf2020/alpha
 
 
  ]]
@@ -28,11 +28,11 @@ end
 
 return {
   patterns = {
-    "^[!/]([Tt]elemanager)$",
-    "^([Tt]elemanager)$",
-    "^[!/]([Tt]elemanagerplus)$",
-    "^([Tt]elemanagerplus)$",
-    "^(@telemanagerplus)$",
+    "^[!/]([Tt]elenero)$",
+    "^([Tt]elenero)$",
+    "^[!/]([Tt]elenero)$",
+    "^([Tt]telenero)$",
+    "^(@telenero)$",
     
     },
   run = run
